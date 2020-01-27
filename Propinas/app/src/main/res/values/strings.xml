@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Propinas</string>
+    <string name="config">Configuración</string>
+    <string name="contnue">Aceptar</string>
+    <string name="cantPag">Cantidad a pagar</string>
+    <string name="calcular">Calcular propinas</string>
+    <string name="propina">Propina</string>
+    <string name="total">Total a pagar</string>
+    <string name="guardar">Guardar</string>
+    <string name="importe">Inserte el importe</string>
+    <string name="porcentaje">Porcentaje de propinas</string>
+    <string name="simbolo">%</string>
+</resources>
